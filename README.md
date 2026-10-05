@@ -1,172 +1,119 @@
 <div align="center">
 
-<br>
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   █████╗ ██████╗ ███████╗███╗   ██╗███████╗███████╗██████╗ ║
+║  ██╔══██╗██╔══██╗██╔════╝████╗  ██║██╔════╝╚══███╔╝██╔══██╗║
+║  ███████║██████╔╝█████╗  ██╔██╗ ██║█████╗    ███╔╝ ██████╔╝║
+║  ██╔══██║██╔══██╗██╔══╝  ██║╚██╗██║██╔══╝   ███╔╝  ██╔══██╗║
+║  ██║  ██║██████╔╝███████╗██║ ╚████║███████╗███████╗██████╔╝║
+║  ╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═════╝ ║
+║                                                              ║
+║             C Y B E R S E C U R I T Y   ×   A I              ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=2500&pause=700&color=00FF9C&center=true&vCenter=true&width=700&lines=%5B+INITIALIZING+IDENTITY...+%5D;%5B+ACCESS+GRANTED+%5D;%5B+LOADING+ABENEZER...+%5D;%5B+CYBERSECURITY+%7C+AI+%7C+SECURITY+ENGINEERING+%5D" />
+```text
+┌──[abenezer@cyberlab]─[~]
+└─$ whoami
 
-# `A B E N E Z E R`
+abenezer
+cybersecurity // AI // security engineering
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B949E&center=true&vCenter=true&width=700&lines=CYBERSECURITY+BUILDER;AI+%C3%97+CYBERSECURITY;SECURITY+RESEARCHER+IN+PROGRESS;BUILDING+GASHA+CSOC" />
-
-<br>
-
-`[ CYBERSECURITY ]`　`[ AI ]`　`[ SOC ]`　`[ SECURITY ENGINEERING ]`
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0d1117&label=PROFILE+ACCESS" />
+[ `ENTER SYSTEM` ]
 
 </div>
 
 ---
 
-# `01 // IDENTITY`
-
-<details open>
-<summary><b>▸ WHO IS ABENEZER?</b></summary>
-
-<br>
-
-I'm **Abenezer**, a cybersecurity-focused student and builder at **Adama Science and Technology University**.
-
-My focus is the intersection of:
+<details>
+<summary><code>./about</code></summary>
 
 ```text
-                 ┌─────────────────┐
-                 │  CYBERSECURITY  │
-                 └────────┬────────┘
-                          │
-             ┌────────────┼────────────┐
-             │            │            │
-             ▼            ▼            ▼
-          OFFENSE       DEFENSE        AI
-             │            │            │
-             └────────────┼────────────┘
-                          ▼
-                  SECURITY SYSTEMS
+student @ ASTU
+cybersecurity builder
+AI × security
 ```
 
-I don't want to simply learn cybersecurity tools.
+</details>
 
-I want to understand **what happens underneath them**, think like an attacker, and build systems that help defenders move faster.
+<details>
+<summary><code>./skills</code></summary>
 
 ```text
-Learn → Build → Break → Understand → Defend
+[+] Web Security
+[+] Recon
+[+] SOC
+[+] Threat Intelligence
+[+] AI Agents
+[+] Security Automation
+[+] Linux
+[+] Python
+```
+
+</details>
+
+<details>
+<summary><code>./projects</code></summary>
+
+```text
+01  GASHA CSOC
+02  Recon Toolkit
+03  AI × Cyber Lab
+```
+
+</details>
+
+<details>
+<summary><code>./gasha</code></summary>
+
+```text
+              SECURITY EVENT
+                    │
+                    ▼
+                  TRIAGE
+                    │
+        ┌───────────┼───────────┐
+        ▼           ▼           ▼
+      INTEL      ENDPOINT     MITRE
+        └───────────┼───────────┘
+                    ▼
+              AI ANALYSIS
+                    │
+                    ▼
+              HUMAN DECISION
+```
+
+`AI proposes. Human decides.`
+
+</details>
+
+<details>
+<summary><code>./mission</code></summary>
+
+```text
+LEARN → BUILD → BREAK → UNDERSTAND → DEFEND
 ```
 
 </details>
 
 ---
 
-# `02 // COMMAND CENTER`
-
-<details>
-<summary>⚡ <b>ENTER ABENEZER'S CYBER COMMAND CENTER</b></summary>
-
-<br>
+<div align="center">
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                 ABENEZER // COMMAND CENTER                  │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  SYSTEM       : ONLINE                                       │
-│  IDENTITY     : CYBERSECURITY BUILDER                       │
-│  SPECIALTY    : AI × SECURITY                                │
-│  CURRENT OPS  : GASHA CSOC                                   │
-│  ENVIRONMENT  : LINUX / WINDOWS                              │
-│                                                              │
-│  STATUS       : LEARNING • BUILDING • RESEARCHING            │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────┐
+│                                     │
+│       SYSTEM STATUS : ONLINE        │
+│       THREAT LEVEL  : LOW           │
+│       MISSION       : ACTIVE        │
+│                                     │
+└─────────────────────────────────────┘
 ```
 
-### `> SELECT OPERATION`
+`[ ACCESS GRANTED ]`
 
-<details>
-<summary>🔎 <b>RECONNAISSANCE</b></summary>
-
-```text
-DISCOVER
-   ↓
-ENUMERATE
-   ↓
-MAP ATTACK SURFACE
-   ↓
-ANALYZE
-```
-
-Exploring:
-
-`Subdomains` • `DNS` • `Directories` • `Endpoints` • `OSINT`
-
-</details>
-
-<details>
-<summary>🌐 <b>WEB SECURITY</b></summary>
-
-```text
-REQUEST
-   ↓
-APPLICATION
-   ↓
-INPUT
-   ↓
-VULNERABILITY
-   ↓
-IMPACT
-```
-
-Exploring:
-
-`Authentication` • `Authorization` • `Enumeration` • `Burp Suite` • `OWASP`
-
-</details>
-
-<details>
-<summary>🛡️ <b>SOC OPERATIONS</b></summary>
-
-```text
-ALERT
-  ↓
-TRIAGE
-  ↓
-THREAT INTELLIGENCE
-  ↓
-ENDPOINT CONTEXT
-  ↓
-MITRE ATT&CK
-  ↓
-INVESTIGATION
-  ↓
-HUMAN DECISION
-```
-
-</details>
-
-<details>
-<summary>🤖 <b>AI × CYBERSECURITY</b></summary>
-
-```text
-LLM
- ↓
-AGENT
- ↓
-SECURITY CONTEXT
- ↓
-REASONING
- ↓
-RECOMMENDATION
- ↓
-ANALYST
-```
-
-> AI proposes at machine speed. Human decides with ultimate authority.
-
-</details>
-
-</details>
-
----
-
-# `03 // CORE
+</div>
